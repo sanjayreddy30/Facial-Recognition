@@ -1,8 +1,8 @@
-tensorflow-cpu
-numpy
+tensorflow-cpu==2.2.0
+numpy==1.18.4
 pandas
-opencv-python
-flask
+opencv-python==4.2.0.34
+flask==1.1.2
 seaborn
 matplotlib
 ipython
