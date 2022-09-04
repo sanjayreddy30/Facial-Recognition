@@ -1,3 +1,4 @@
+pip==20.1.1
 tensorflow-cpu==2.2.0
 numpy==1.18.4
 pandas
